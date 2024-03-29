@@ -1,6 +1,6 @@
 # Main_Port
 
-So gyes this is the 2nd project of my 30 days frontend project challenge.
+So gyes this is the 2nd project of my 25 days frontend project challenge.
 
 This website consist navbar on thr left side 
 
